@@ -1,4 +1,4 @@
-package com.crater.pushclient;
+package com.alonegk.pushclient.firebase;
 
 import java.util.Map;
 

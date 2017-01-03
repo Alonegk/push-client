@@ -3,6 +3,10 @@ package com.crater.pushclient;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+import com.alonegk.pushclient.PushService;
+import com.alonegk.pushclient.firebase.FirebasePush;
+import com.alonegk.pushclient.firebase.NotificationPayload;
+
 public class Test {
 
     public static final String API_KEY = "API_KEY";

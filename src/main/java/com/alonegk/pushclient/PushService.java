@@ -1,4 +1,7 @@
-package com.crater.pushclient;
+package com.alonegk.pushclient;
+
+import com.alonegk.pushclient.firebase.FirebasePush;
+
 /**
  * 
  * @author Greesh Kumar

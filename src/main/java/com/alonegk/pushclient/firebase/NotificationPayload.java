@@ -1,4 +1,4 @@
-package com.crater.pushclient;
+package com.alonegk.pushclient.firebase;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonInclude.Include;
